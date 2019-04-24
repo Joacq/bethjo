@@ -1,0 +1,10 @@
+&
+metd suma []{
+var m=2
+var n= 5
+var n2=8
+r= n+2
+om[r==8]{
+skrive[r]
+}
+}
